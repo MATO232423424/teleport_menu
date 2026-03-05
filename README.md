@@ -19,7 +19,7 @@ Clean and simple ESX teleport menu opened via ox_target NPC interaction.
 ## ⚙️ Installation
 
 1. Drag the script folder into your resources folder
-2. Add `ensure Mato` in your server.cfg
+2. Add `ensure teleport_menu-main` in your server.cfg
 3. Configure locations inside `config.lua`
 4. Restart your server
 
